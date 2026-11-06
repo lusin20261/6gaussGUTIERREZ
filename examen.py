@@ -1,0 +1,8 @@
+a = input("ingresa tu nombre : ")
+b = input("ingresa cual es tu hobby : ")
+c = input("cuantos años tengo : ")
+z = input("cual es el nombre de tu amigo :")
+x = input("como se llama tu profesor :")
+print("hola" ,a,"mi hobby es" ,b,)
+print("tengo" , c , "mi amigo es " , z ,)
+print("mi profe es " ,x,)
